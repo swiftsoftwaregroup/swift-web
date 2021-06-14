@@ -1,0 +1,40 @@
+
+
+[
+  
+  
+    
+    
+  
+  
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Cloud and High Performance Computing",
+    "excerpt": "\n",
+    "content": "Swift Software Group is a leading expert in the business and technical aspects of High Performance Computing (HPC) in the Cloud.\n\nSSG brings expertise, experience and impartiality to help you evaluate technology options, acquire HPC systems, make your applications go faster, understand your competitive position, and ensure best impact at best cost.\n\nSSG’s Cloud and HPC Services are completely agnostic with respect to hardware and software technologies and cloud vendors. We work with all major cloud providers and hardware manufacturers and a wide range of programming languages and operating systems.\n\n\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Search",
+    "excerpt": "Search for a page or post you’re looking for\n",
+    "content": "{% include site-search.html %}\n",
+    "url": "/search/"
+  },
+  
+  {
+    "title": "Services",
+    "excerpt": "Why migrate to the Cloud?\n",
+    "content": "Cloud Migration\n\nWhy migrate to the Cloud?\n\n\n  \n    Scalability – take advantage of elastic compute resources to efficiently manage large workloads or meet changing demand – on AWS (Amazon Web Services), Google Cloud or Microsoft Azure\n  \n  \n    Agility – tailor virtual machine (VM) sizes to your workloads: CPU, memory, networking, GPU accelerators can all be configured to match the your workload requirements\n  \n  \n    Unlimited Storage – scale different types of storage as you need it, at the locations of your choice\n  \n  \n    Predictable Cost – realize the benefits of the cloud without breaking the bank\n  \n\n\n… however …\n\nCloud HPC Migration Is Challenging\n\nMoving existing HPC workflows to the cloud is non-trivial, and implementation mistakes can easily eliminate your performance and cost benefits. HPC leaders need support with getting started, choosing optimal hardware, managing costs, storage configuration, and tuning existing code to exploit the potential of the cloud.\n\nThe flexibility of the cloud allows the option to adapt both the application as well as the platform upon which it runs. Optimal resource selection is often not obvious and maybe counter-intuitive at times.\n\n… and that is where we come …\n\nWhy choose SSG as your Cloud migration partner?\n\nWe can assist you with:\n\n\n  \n    Choosing Your Cloud Provider – we work and partner with Google, AWS and Microsoft, SSG knows the strengths of the top Cloud Service Providers and can help you select the best for your needs\n  \n  \n    Navigating the Transition – SSG helps you understand which factors will limit performance and increase cost in the cloud (I/O, CPU, memory, data transfer)\n  \n  \n    Minimizing Cost – SSG optimizes both your applications and the cloud infrastructure they can run on. Tuning and modernizing existing code, choosing the right resources – all to reduce overall cost and/or increase performance.\n  \n\n\nSoftware Optimization and Code Modernization\n\n\n  Is your application software suffering from poor performance today?\n  Do you know if your application software is running at full potential on your current computing systems?\n  Is your application software ready to exploit future computing technology?\n\n\nThe overwhelming proportion of performance from all mainstream current and future processors comes from parallel processing techniques. In addition, system architectures have increasingly complex memory hierarchies and performance characteristics. Software must be modified, or ‘modernized’ in order to exploit this hardware complexity to access the potential performance.\n\nSoftware modernization is often a required step for an application to be able to effectively use GPUs (e.g., from NVIDIA or AMD),or  Intel’s Xeon Phi, and other many-core processors. However, software modernization also delivers significant performance advantages on more traditional processors, such as Intel’s Xeon family.\n\nSSG can help you improve the cost-effectiveness and performance of your numerical computing in science, engineering, finance, analytics and more.\n\nAlgorithm Design and Development\n\nSSG designs and builds custom algorithms to meet your needs and solve your complex problems. SSG has been at the forefront of algorithm design and optimization for over 2 decades. Our experts collaborate with world leading research centers and academics to develop and maintain algorithms used in multitude of applications.\n\nSSG’s custom algorithm development targets the configurations of your specific environment and your own problem types. Many aspects are considered including processor (CPU, coprocessor or GPU), memory configurations, communications networks and problem sizes, runtime windows, tolerances, areas of interest and much more.\n\nSoftware Porting and Tuning\n\nSSG can assess your code to identify the likely value of porting to GPU or manycore processors. Where performance or cost benefits are possible, SSG can port your code to GPUs or other manycore coprocessors using appropriate standards and languages - e.g. CUDA, OpenCL or OpenMP. We can also advise on appropriate alternative algorithms that may be better suited for use on manycore/coprocessor/GPU processors.\n",
+    "url": "/services/"
+  }
+  
+]
+
