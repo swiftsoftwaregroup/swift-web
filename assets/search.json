@@ -9,24 +9,10 @@
   
   
   {
-    "title": "Categories",
-    "excerpt": "Category index\n",
-    "content": "\n",
-    "url": "/categories/"
-  },
-  
-  {
     "title": "Cloud and High Performance Computing",
     "excerpt": "\n",
     "content": "Swift Software Group is a leading expert in the business and technical aspects of High Performance Computing (HPC) in the Cloud.\n\nSSG brings expertise, experience and impartiality to help you evaluate technology options, acquire HPC systems, make your applications go faster, understand your competitive position, and ensure best impact at best cost.\n\nSSG’s Cloud and HPC Services are completely agnostic with respect to hardware and software technologies and cloud vendors. We work with all major cloud providers and hardware manufacturers and a wide range of programming languages and operating systems.\n\n\n",
     "url": "/"
-  },
-  
-  {
-    "title": "Search",
-    "excerpt": "Search for a page or post you’re looking for\n",
-    "content": "{% include site-search.html %}\n",
-    "url": "/search/"
   },
   
   {
